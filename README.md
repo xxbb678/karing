@@ -7,13 +7,13 @@
 - 应用版本：Karing 1.2.25.2802
 - 平台：iOS
 - 备份时间：2026-09-22 19:11（北京时间）
-- 文件名：`Karing_1.2.25.2802_ios_2026-09-22-1911.backup.zip`
+- 文件名：`karing.zip`
 - 内容：订阅配置、路由分组、订阅使用状态和应用设置
 
 ## 远程下载链接
 
 ```text
-https://raw.githubusercontent.com/xxbb678/karing-backup/master/Karing_1.2.25.2802_ios_2026-09-22-1911.backup.zip
+https://raw.githubusercontent.com/xxbb678/karing/master/karing.zip
 ```
 
 > 仓库当前为私有仓库，远程下载时需要登录有权限的 GitHub 账号。若要让 Karing 无需登录直接读取此链接，需要把仓库改为公开。
